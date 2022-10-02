@@ -41,4 +41,5 @@ int main()
     }
 
     rotate(arr,n);
+    return 0;
 }
